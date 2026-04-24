@@ -1,7 +1,7 @@
 const { Bot, InlineKeyboard } = require('grammy');
 
-const BOT_TOKEN = process.env.BOT_TOKEN || 'ВСТАВЬ_ТОКЕН_СЮДА';
-const WEBAPP_URL = process.env.WEBAPP_URL || 'https://твой-домен.vercel.app';
+const BOT_TOKEN = process.env.BOT_TOKEN || '8547230036:AAECpI-mUgglfGIzgy6KCEYm-BdwvUI6BJQ';
+const WEBAPP_URL = process.env.WEBAPP_URL || 'https://mmropg-production.up.railway.app';
 
 const bot = new Bot(BOT_TOKEN);
 
